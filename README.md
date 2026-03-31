@@ -10,7 +10,7 @@ This is a simple 2-player Tic Tac Toe game built using Python.
 ## How to run
 1. Download the file
 2. Run using:
-   python tictactoe.py
+   python Tic-Tac-Toe.py
 
 ## Author
 Mihir
